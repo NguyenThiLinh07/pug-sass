@@ -1,0 +1,7 @@
+{
+  "name": "pug_sass",
+  "version": "1.0.0",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
